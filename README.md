@@ -3,7 +3,7 @@ This allows players to get MultiISOs and vote compilations for mafia games on fo
 
 To use this program for the first time: 
   1. Open your terminal, and go to the folder where you want to set things up in.
-  2. Run the command "git clone https://github.com/Zugzwqng/TerminalOfLies"
+  2. Run the command "git clone https://github.com/FortressOfLies/TerminalOfLies"
   3. Enter the newly created folder with the command "cd TerminalOfLies"
   4. Run the command "python3 TerminalOfLies.py"
 
